@@ -1,3 +1,4 @@
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 👉 This is the **best option** for:
 - GitHub README
