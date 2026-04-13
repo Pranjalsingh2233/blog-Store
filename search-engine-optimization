@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEO Blog</title>
+</head>
+
+<body style="margin:0; font-family:Arial, sans-serif; background:#f9fbff;">
+
+<div style="max-width:900px; margin:40px auto; padding:20px;">
+
+  <h1 style="color:#0049A9; font-size:32px; margin-bottom:10px;">
+    What is SEO? A Beginner’s Guide
+  </h1>
+
+  <p style="color:#555; font-size:16px; line-height:1.6;">
+    In today’s digital world, having a website is not enough. If your website is not visible on search engines, you are missing potential traffic and customers. This is where <b>SEO (Search Engine Optimization)</b> plays a crucial role.
+  </p>
+
+  <div style="background:#fff; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h2 style="color:#0049A9;">What is SEO?</h2>
+    <p style="color:#555; line-height:1.6;">
+      SEO is the process of optimizing your website so that it ranks higher on search engines like Google. The better your SEO, the more visibility your website gets.
+    </p>
+  </div>
+
+  <div style="background:#fff; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h2 style="color:#0049A9;">Why SEO is Important</h2>
+    <ul style="color:#555; line-height:1.8; padding-left:20px;">
+      <li>Increases website traffic</li>
+      <li>Builds trust and credibility</li>
+      <li>Improves user experience</li>
+      <li>Generates leads and conversions</li>
+    </ul>
+  </div>
+
+  <div style="background:#fff; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h2 style="color:#0049A9;">Types of SEO</h2>
+    
+    <h3 style="margin-top:10px;">1. On-Page SEO</h3>
+    <p style="color:#555;">Optimizing content, headings, keywords, and images.</p>
+
+    <h3>2. Off-Page SEO</h3>
+    <p style="color:#555;">Building backlinks and improving domain authority.</p>
+
+    <h3>3. Technical SEO</h3>
+    <p style="color:#555;">Improving site speed, mobile-friendliness, and structure.</p>
+  </div>
+
+  <div style="background:#fff; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h2 style="color:#0049A9;">Basic SEO Tips</h2>
+    <ul style="color:#555; line-height:1.8; padding-left:20px;">
+      <li>Use relevant keywords</li>
+      <li>Create high-quality content</li>
+      <li>Optimize images and speed</li>
+      <li>Make your site mobile-friendly</li>
+      <li>Use proper headings (H1, H2, H3)</li>
+    </ul>
+  </div>
+
+  <div style="background:#fff; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h2 style="color:#0049A9;">Conclusion</h2>
+    <p style="color:#555; line-height:1.6;">
+      SEO is essential for growing your online presence. By applying basic SEO techniques, you can improve your rankings and attract more visitors to your website.
+    </p>
+  </div>
+
+</div>
+
+</body>
+</html>
